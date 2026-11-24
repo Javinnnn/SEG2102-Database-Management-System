@@ -1,0 +1,501 @@
+course_id,course_name,credit_hours,lecturer
+C001,Database Management Systems,3,Mr. James Lee
+C002,Principles of Marketing,3,Ms. Sarah Tan
+C003,Business Management,4,Mr. David Lim
+C004,Introduction to Programming 1,2,Mr. James Lee
+C005,Data Structures 1,3,Ms. Sarah Tan
+C006,Business Statistics 1,4,Mr. David Lim
+C007,Digital Marketing 1,2,Dr. Amanda Chan
+C008,Financial Accounting 1,3,Mr. Michael Wong
+C009,Computer Networks 1,4,Mr. James Lee
+C010,Database Systems 1,2,Ms. Sarah Tan
+C011,Principles of Management 1,3,Mr. David Lim
+C012,Web Development 1,4,Dr. Amanda Chan
+C013,Information Systems 1,2,Mr. Michael Wong
+C014,Introduction to Programming 2,3,Mr. James Lee
+C015,Data Structures 2,4,Ms. Sarah Tan
+C016,Business Statistics 2,2,Mr. David Lim
+C017,Digital Marketing 2,3,Dr. Amanda Chan
+C018,Financial Accounting 2,4,Mr. Michael Wong
+C019,Computer Networks 2,2,Mr. James Lee
+C020,Database Systems 2,3,Ms. Sarah Tan
+C021,Principles of Management 2,4,Mr. David Lim
+C022,Web Development 2,2,Dr. Amanda Chan
+C023,Information Systems 2,3,Mr. Michael Wong
+C024,Introduction to Programming 3,4,Mr. James Lee
+C025,Data Structures 3,2,Ms. Sarah Tan
+C026,Business Statistics 3,3,Mr. David Lim
+C027,Digital Marketing 3,4,Dr. Amanda Chan
+C028,Financial Accounting 3,2,Mr. Michael Wong
+C029,Computer Networks 3,3,Mr. James Lee
+C030,Database Systems 3,4,Ms. Sarah Tan
+C031,Principles of Management 3,2,Mr. David Lim
+C032,Web Development 3,3,Dr. Amanda Chan
+C033,Information Systems 3,4,Mr. Michael Wong
+C034,Introduction to Programming 4,2,Mr. James Lee
+C035,Data Structures 4,3,Ms. Sarah Tan
+C036,Business Statistics 4,4,Mr. David Lim
+C037,Digital Marketing 4,2,Dr. Amanda Chan
+C038,Financial Accounting 4,3,Mr. Michael Wong
+C039,Computer Networks 4,4,Mr. James Lee
+C040,Database Systems 4,2,Ms. Sarah Tan
+C041,Principles of Management 4,3,Mr. David Lim
+C042,Web Development 4,4,Dr. Amanda Chan
+C043,Information Systems 4,2,Mr. Michael Wong
+C044,Introduction to Programming 5,3,Mr. James Lee
+C045,Data Structures 5,4,Ms. Sarah Tan
+C046,Business Statistics 5,2,Mr. David Lim
+C047,Digital Marketing 5,3,Dr. Amanda Chan
+C048,Financial Accounting 5,4,Mr. Michael Wong
+C049,Computer Networks 5,2,Mr. James Lee
+C050,Database Systems 5,3,Ms. Sarah Tan
+C051,Principles of Management 5,4,Mr. David Lim
+C052,Web Development 5,2,Dr. Amanda Chan
+C053,Information Systems 5,3,Mr. Michael Wong
+C054,Introduction to Programming 6,4,Mr. James Lee
+C055,Data Structures 6,2,Ms. Sarah Tan
+C056,Business Statistics 6,3,Mr. David Lim
+C057,Digital Marketing 6,4,Dr. Amanda Chan
+C058,Financial Accounting 6,2,Mr. Michael Wong
+C059,Computer Networks 6,3,Mr. James Lee
+C060,Database Systems 6,4,Ms. Sarah Tan
+C061,Principles of Management 6,2,Mr. David Lim
+C062,Web Development 6,3,Dr. Amanda Chan
+C063,Information Systems 6,4,Mr. Michael Wong
+C064,Introduction to Programming 7,2,Mr. James Lee
+C065,Data Structures 7,3,Ms. Sarah Tan
+C066,Business Statistics 7,4,Mr. David Lim
+C067,Digital Marketing 7,2,Dr. Amanda Chan
+C068,Financial Accounting 7,3,Mr. Michael Wong
+C069,Computer Networks 7,4,Mr. James Lee
+C070,Database Systems 7,2,Ms. Sarah Tan
+C071,Principles of Management 7,3,Mr. David Lim
+C072,Web Development 7,4,Dr. Amanda Chan
+C073,Information Systems 7,2,Mr. Michael Wong
+C074,Introduction to Programming 8,3,Mr. James Lee
+C075,Data Structures 8,4,Ms. Sarah Tan
+C076,Business Statistics 8,2,Mr. David Lim
+C077,Digital Marketing 8,3,Dr. Amanda Chan
+C078,Financial Accounting 8,4,Mr. Michael Wong
+C079,Computer Networks 8,2,Mr. James Lee
+C080,Database Systems 8,3,Ms. Sarah Tan
+C081,Principles of Management 8,4,Mr. David Lim
+C082,Web Development 8,2,Dr. Amanda Chan
+C083,Information Systems 8,3,Mr. Michael Wong
+C084,Introduction to Programming 9,4,Mr. James Lee
+C085,Data Structures 9,2,Ms. Sarah Tan
+C086,Business Statistics 9,3,Mr. David Lim
+C087,Digital Marketing 9,4,Dr. Amanda Chan
+C088,Financial Accounting 9,2,Mr. Michael Wong
+C089,Computer Networks 9,3,Mr. James Lee
+C090,Database Systems 9,4,Ms. Sarah Tan
+C091,Principles of Management 9,2,Mr. David Lim
+C092,Web Development 9,3,Dr. Amanda Chan
+C093,Information Systems 9,4,Mr. Michael Wong
+C094,Introduction to Programming 10,2,Mr. James Lee
+C095,Data Structures 10,3,Ms. Sarah Tan
+C096,Business Statistics 10,4,Mr. David Lim
+C097,Digital Marketing 10,2,Dr. Amanda Chan
+C098,Financial Accounting 10,3,Mr. Michael Wong
+C099,Computer Networks 10,4,Mr. James Lee
+C100,Database Systems 10,2,Ms. Sarah Tan
+C101,Principles of Management 10,3,Mr. David Lim
+C102,Web Development 10,4,Dr. Amanda Chan
+C103,Information Systems 10,2,Mr. Michael Wong
+C104,Introduction to Programming 11,3,Mr. James Lee
+C105,Data Structures 11,4,Ms. Sarah Tan
+C106,Business Statistics 11,2,Mr. David Lim
+C107,Digital Marketing 11,3,Dr. Amanda Chan
+C108,Financial Accounting 11,4,Mr. Michael Wong
+C109,Computer Networks 11,2,Mr. James Lee
+C110,Database Systems 11,3,Ms. Sarah Tan
+C111,Principles of Management 11,4,Mr. David Lim
+C112,Web Development 11,2,Dr. Amanda Chan
+C113,Information Systems 11,3,Mr. Michael Wong
+C114,Introduction to Programming 12,4,Mr. James Lee
+C115,Data Structures 12,2,Ms. Sarah Tan
+C116,Business Statistics 12,3,Mr. David Lim
+C117,Digital Marketing 12,4,Dr. Amanda Chan
+C118,Financial Accounting 12,2,Mr. Michael Wong
+C119,Computer Networks 12,3,Mr. James Lee
+C120,Database Systems 12,4,Ms. Sarah Tan
+C121,Principles of Management 12,2,Mr. David Lim
+C122,Web Development 12,3,Dr. Amanda Chan
+C123,Information Systems 12,4,Mr. Michael Wong
+C124,Introduction to Programming 13,2,Mr. James Lee
+C125,Data Structures 13,3,Ms. Sarah Tan
+C126,Business Statistics 13,4,Mr. David Lim
+C127,Digital Marketing 13,2,Dr. Amanda Chan
+C128,Financial Accounting 13,3,Mr. Michael Wong
+C129,Computer Networks 13,4,Mr. James Lee
+C130,Database Systems 13,2,Ms. Sarah Tan
+C131,Principles of Management 13,3,Mr. David Lim
+C132,Web Development 13,4,Dr. Amanda Chan
+C133,Information Systems 13,2,Mr. Michael Wong
+C134,Introduction to Programming 14,3,Mr. James Lee
+C135,Data Structures 14,4,Ms. Sarah Tan
+C136,Business Statistics 14,2,Mr. David Lim
+C137,Digital Marketing 14,3,Dr. Amanda Chan
+C138,Financial Accounting 14,4,Mr. Michael Wong
+C139,Computer Networks 14,2,Mr. James Lee
+C140,Database Systems 14,3,Ms. Sarah Tan
+C141,Principles of Management 14,4,Mr. David Lim
+C142,Web Development 14,2,Dr. Amanda Chan
+C143,Information Systems 14,3,Mr. Michael Wong
+C144,Introduction to Programming 15,4,Mr. James Lee
+C145,Data Structures 15,2,Ms. Sarah Tan
+C146,Business Statistics 15,3,Mr. David Lim
+C147,Digital Marketing 15,4,Dr. Amanda Chan
+C148,Financial Accounting 15,2,Mr. Michael Wong
+C149,Computer Networks 15,3,Mr. James Lee
+C150,Database Systems 15,4,Ms. Sarah Tan
+C151,Principles of Management 15,2,Mr. David Lim
+C152,Web Development 15,3,Dr. Amanda Chan
+C153,Information Systems 15,4,Mr. Michael Wong
+C154,Introduction to Programming 16,2,Mr. James Lee
+C155,Data Structures 16,3,Ms. Sarah Tan
+C156,Business Statistics 16,4,Mr. David Lim
+C157,Digital Marketing 16,2,Dr. Amanda Chan
+C158,Financial Accounting 16,3,Mr. Michael Wong
+C159,Computer Networks 16,4,Mr. James Lee
+C160,Database Systems 16,2,Ms. Sarah Tan
+C161,Principles of Management 16,3,Mr. David Lim
+C162,Web Development 16,4,Dr. Amanda Chan
+C163,Information Systems 16,2,Mr. Michael Wong
+C164,Introduction to Programming 17,3,Mr. James Lee
+C165,Data Structures 17,4,Ms. Sarah Tan
+C166,Business Statistics 17,2,Mr. David Lim
+C167,Digital Marketing 17,3,Dr. Amanda Chan
+C168,Financial Accounting 17,4,Mr. Michael Wong
+C169,Computer Networks 17,2,Mr. James Lee
+C170,Database Systems 17,3,Ms. Sarah Tan
+C171,Principles of Management 17,4,Mr. David Lim
+C172,Web Development 17,2,Dr. Amanda Chan
+C173,Information Systems 17,3,Mr. Michael Wong
+C174,Introduction to Programming 18,4,Mr. James Lee
+C175,Data Structures 18,2,Ms. Sarah Tan
+C176,Business Statistics 18,3,Mr. David Lim
+C177,Digital Marketing 18,4,Dr. Amanda Chan
+C178,Financial Accounting 18,2,Mr. Michael Wong
+C179,Computer Networks 18,3,Mr. James Lee
+C180,Database Systems 18,4,Ms. Sarah Tan
+C181,Principles of Management 18,2,Mr. David Lim
+C182,Web Development 18,3,Dr. Amanda Chan
+C183,Information Systems 18,4,Mr. Michael Wong
+C184,Introduction to Programming 19,2,Mr. James Lee
+C185,Data Structures 19,3,Ms. Sarah Tan
+C186,Business Statistics 19,4,Mr. David Lim
+C187,Digital Marketing 19,2,Dr. Amanda Chan
+C188,Financial Accounting 19,3,Mr. Michael Wong
+C189,Computer Networks 19,4,Mr. James Lee
+C190,Database Systems 19,2,Ms. Sarah Tan
+C191,Principles of Management 19,3,Mr. David Lim
+C192,Web Development 19,4,Dr. Amanda Chan
+C193,Information Systems 19,2,Mr. Michael Wong
+C194,Introduction to Programming 20,3,Mr. James Lee
+C195,Data Structures 20,4,Ms. Sarah Tan
+C196,Business Statistics 20,2,Mr. David Lim
+C197,Digital Marketing 20,3,Dr. Amanda Chan
+C198,Financial Accounting 20,4,Mr. Michael Wong
+C199,Computer Networks 20,2,Mr. James Lee
+C200,Database Systems 20,3,Ms. Sarah Tan
+C201,Principles of Management 20,4,Mr. David Lim
+C202,Web Development 20,2,Dr. Amanda Chan
+C203,Information Systems 20,3,Mr. Michael Wong
+C204,Introduction to Programming 21,4,Mr. James Lee
+C205,Data Structures 21,2,Ms. Sarah Tan
+C206,Business Statistics 21,3,Mr. David Lim
+C207,Digital Marketing 21,4,Dr. Amanda Chan
+C208,Financial Accounting 21,2,Mr. Michael Wong
+C209,Computer Networks 21,3,Mr. James Lee
+C210,Database Systems 21,4,Ms. Sarah Tan
+C211,Principles of Management 21,2,Mr. David Lim
+C212,Web Development 21,3,Dr. Amanda Chan
+C213,Information Systems 21,4,Mr. Michael Wong
+C214,Introduction to Programming 22,2,Mr. James Lee
+C215,Data Structures 22,3,Ms. Sarah Tan
+C216,Business Statistics 22,4,Mr. David Lim
+C217,Digital Marketing 22,2,Dr. Amanda Chan
+C218,Financial Accounting 22,3,Mr. Michael Wong
+C219,Computer Networks 22,4,Mr. James Lee
+C220,Database Systems 22,2,Ms. Sarah Tan
+C221,Principles of Management 22,3,Mr. David Lim
+C222,Web Development 22,4,Dr. Amanda Chan
+C223,Information Systems 22,2,Mr. Michael Wong
+C224,Introduction to Programming 23,3,Mr. James Lee
+C225,Data Structures 23,4,Ms. Sarah Tan
+C226,Business Statistics 23,2,Mr. David Lim
+C227,Digital Marketing 23,3,Dr. Amanda Chan
+C228,Financial Accounting 23,4,Mr. Michael Wong
+C229,Computer Networks 23,2,Mr. James Lee
+C230,Database Systems 23,3,Ms. Sarah Tan
+C231,Principles of Management 23,4,Mr. David Lim
+C232,Web Development 23,2,Dr. Amanda Chan
+C233,Information Systems 23,3,Mr. Michael Wong
+C234,Introduction to Programming 24,4,Mr. James Lee
+C235,Data Structures 24,2,Ms. Sarah Tan
+C236,Business Statistics 24,3,Mr. David Lim
+C237,Digital Marketing 24,4,Dr. Amanda Chan
+C238,Financial Accounting 24,2,Mr. Michael Wong
+C239,Computer Networks 24,3,Mr. James Lee
+C240,Database Systems 24,4,Ms. Sarah Tan
+C241,Principles of Management 24,2,Mr. David Lim
+C242,Web Development 24,3,Dr. Amanda Chan
+C243,Information Systems 24,4,Mr. Michael Wong
+C244,Introduction to Programming 25,2,Mr. James Lee
+C245,Data Structures 25,3,Ms. Sarah Tan
+C246,Business Statistics 25,4,Mr. David Lim
+C247,Digital Marketing 25,2,Dr. Amanda Chan
+C248,Financial Accounting 25,3,Mr. Michael Wong
+C249,Computer Networks 25,4,Mr. James Lee
+C250,Database Systems 25,2,Ms. Sarah Tan
+C251,Principles of Management 25,3,Mr. David Lim
+C252,Web Development 25,4,Dr. Amanda Chan
+C253,Information Systems 25,2,Mr. Michael Wong
+C254,Introduction to Programming 26,3,Mr. James Lee
+C255,Data Structures 26,4,Ms. Sarah Tan
+C256,Business Statistics 26,2,Mr. David Lim
+C257,Digital Marketing 26,3,Dr. Amanda Chan
+C258,Financial Accounting 26,4,Mr. Michael Wong
+C259,Computer Networks 26,2,Mr. James Lee
+C260,Database Systems 26,3,Ms. Sarah Tan
+C261,Principles of Management 26,4,Mr. David Lim
+C262,Web Development 26,2,Dr. Amanda Chan
+C263,Information Systems 26,3,Mr. Michael Wong
+C264,Introduction to Programming 27,4,Mr. James Lee
+C265,Data Structures 27,2,Ms. Sarah Tan
+C266,Business Statistics 27,3,Mr. David Lim
+C267,Digital Marketing 27,4,Dr. Amanda Chan
+C268,Financial Accounting 27,2,Mr. Michael Wong
+C269,Computer Networks 27,3,Mr. James Lee
+C270,Database Systems 27,4,Ms. Sarah Tan
+C271,Principles of Management 27,2,Mr. David Lim
+C272,Web Development 27,3,Dr. Amanda Chan
+C273,Information Systems 27,4,Mr. Michael Wong
+C274,Introduction to Programming 28,2,Mr. James Lee
+C275,Data Structures 28,3,Ms. Sarah Tan
+C276,Business Statistics 28,4,Mr. David Lim
+C277,Digital Marketing 28,2,Dr. Amanda Chan
+C278,Financial Accounting 28,3,Mr. Michael Wong
+C279,Computer Networks 28,4,Mr. James Lee
+C280,Database Systems 28,2,Ms. Sarah Tan
+C281,Principles of Management 28,3,Mr. David Lim
+C282,Web Development 28,4,Dr. Amanda Chan
+C283,Information Systems 28,2,Mr. Michael Wong
+C284,Introduction to Programming 29,3,Mr. James Lee
+C285,Data Structures 29,4,Ms. Sarah Tan
+C286,Business Statistics 29,2,Mr. David Lim
+C287,Digital Marketing 29,3,Dr. Amanda Chan
+C288,Financial Accounting 29,4,Mr. Michael Wong
+C289,Computer Networks 29,2,Mr. James Lee
+C290,Database Systems 29,3,Ms. Sarah Tan
+C291,Principles of Management 29,4,Mr. David Lim
+C292,Web Development 29,2,Dr. Amanda Chan
+C293,Information Systems 29,3,Mr. Michael Wong
+C294,Introduction to Programming 30,4,Mr. James Lee
+C295,Data Structures 30,2,Ms. Sarah Tan
+C296,Business Statistics 30,3,Mr. David Lim
+C297,Digital Marketing 30,4,Dr. Amanda Chan
+C298,Financial Accounting 30,2,Mr. Michael Wong
+C299,Computer Networks 30,3,Mr. James Lee
+C300,Database Systems 30,4,Ms. Sarah Tan
+C301,Principles of Management 30,2,Mr. David Lim
+C302,Web Development 30,3,Dr. Amanda Chan
+C303,Information Systems 30,4,Mr. Michael Wong
+C304,Introduction to Programming 31,2,Mr. James Lee
+C305,Data Structures 31,3,Ms. Sarah Tan
+C306,Business Statistics 31,4,Mr. David Lim
+C307,Digital Marketing 31,2,Dr. Amanda Chan
+C308,Financial Accounting 31,3,Mr. Michael Wong
+C309,Computer Networks 31,4,Mr. James Lee
+C310,Database Systems 31,2,Ms. Sarah Tan
+C311,Principles of Management 31,3,Mr. David Lim
+C312,Web Development 31,4,Dr. Amanda Chan
+C313,Information Systems 31,2,Mr. Michael Wong
+C314,Introduction to Programming 32,3,Mr. James Lee
+C315,Data Structures 32,4,Ms. Sarah Tan
+C316,Business Statistics 32,2,Mr. David Lim
+C317,Digital Marketing 32,3,Dr. Amanda Chan
+C318,Financial Accounting 32,4,Mr. Michael Wong
+C319,Computer Networks 32,2,Mr. James Lee
+C320,Database Systems 32,3,Ms. Sarah Tan
+C321,Principles of Management 32,4,Mr. David Lim
+C322,Web Development 32,2,Dr. Amanda Chan
+C323,Information Systems 32,3,Mr. Michael Wong
+C324,Introduction to Programming 33,4,Mr. James Lee
+C325,Data Structures 33,2,Ms. Sarah Tan
+C326,Business Statistics 33,3,Mr. David Lim
+C327,Digital Marketing 33,4,Dr. Amanda Chan
+C328,Financial Accounting 33,2,Mr. Michael Wong
+C329,Computer Networks 33,3,Mr. James Lee
+C330,Database Systems 33,4,Ms. Sarah Tan
+C331,Principles of Management 33,2,Mr. David Lim
+C332,Web Development 33,3,Dr. Amanda Chan
+C333,Information Systems 33,4,Mr. Michael Wong
+C334,Introduction to Programming 34,2,Mr. James Lee
+C335,Data Structures 34,3,Ms. Sarah Tan
+C336,Business Statistics 34,4,Mr. David Lim
+C337,Digital Marketing 34,2,Dr. Amanda Chan
+C338,Financial Accounting 34,3,Mr. Michael Wong
+C339,Computer Networks 34,4,Mr. James Lee
+C340,Database Systems 34,2,Ms. Sarah Tan
+C341,Principles of Management 34,3,Mr. David Lim
+C342,Web Development 34,4,Dr. Amanda Chan
+C343,Information Systems 34,2,Mr. Michael Wong
+C344,Introduction to Programming 35,3,Mr. James Lee
+C345,Data Structures 35,4,Ms. Sarah Tan
+C346,Business Statistics 35,2,Mr. David Lim
+C347,Digital Marketing 35,3,Dr. Amanda Chan
+C348,Financial Accounting 35,4,Mr. Michael Wong
+C349,Computer Networks 35,2,Mr. James Lee
+C350,Database Systems 35,3,Ms. Sarah Tan
+C351,Principles of Management 35,4,Mr. David Lim
+C352,Web Development 35,2,Dr. Amanda Chan
+C353,Information Systems 35,3,Mr. Michael Wong
+C354,Introduction to Programming 36,4,Mr. James Lee
+C355,Data Structures 36,2,Ms. Sarah Tan
+C356,Business Statistics 36,3,Mr. David Lim
+C357,Digital Marketing 36,4,Dr. Amanda Chan
+C358,Financial Accounting 36,2,Mr. Michael Wong
+C359,Computer Networks 36,3,Mr. James Lee
+C360,Database Systems 36,4,Ms. Sarah Tan
+C361,Principles of Management 36,2,Mr. David Lim
+C362,Web Development 36,3,Dr. Amanda Chan
+C363,Information Systems 36,4,Mr. Michael Wong
+C364,Introduction to Programming 37,2,Mr. James Lee
+C365,Data Structures 37,3,Ms. Sarah Tan
+C366,Business Statistics 37,4,Mr. David Lim
+C367,Digital Marketing 37,2,Dr. Amanda Chan
+C368,Financial Accounting 37,3,Mr. Michael Wong
+C369,Computer Networks 37,4,Mr. James Lee
+C370,Database Systems 37,2,Ms. Sarah Tan
+C371,Principles of Management 37,3,Mr. David Lim
+C372,Web Development 37,4,Dr. Amanda Chan
+C373,Information Systems 37,2,Mr. Michael Wong
+C374,Introduction to Programming 38,3,Mr. James Lee
+C375,Data Structures 38,4,Ms. Sarah Tan
+C376,Business Statistics 38,2,Mr. David Lim
+C377,Digital Marketing 38,3,Dr. Amanda Chan
+C378,Financial Accounting 38,4,Mr. Michael Wong
+C379,Computer Networks 38,2,Mr. James Lee
+C380,Database Systems 38,3,Ms. Sarah Tan
+C381,Principles of Management 38,4,Mr. David Lim
+C382,Web Development 38,2,Dr. Amanda Chan
+C383,Information Systems 38,3,Mr. Michael Wong
+C384,Introduction to Programming 39,4,Mr. James Lee
+C385,Data Structures 39,2,Ms. Sarah Tan
+C386,Business Statistics 39,3,Mr. David Lim
+C387,Digital Marketing 39,4,Dr. Amanda Chan
+C388,Financial Accounting 39,2,Mr. Michael Wong
+C389,Computer Networks 39,3,Mr. James Lee
+C390,Database Systems 39,4,Ms. Sarah Tan
+C391,Principles of Management 39,2,Mr. David Lim
+C392,Web Development 39,3,Dr. Amanda Chan
+C393,Information Systems 39,4,Mr. Michael Wong
+C394,Introduction to Programming 40,2,Mr. James Lee
+C395,Data Structures 40,3,Ms. Sarah Tan
+C396,Business Statistics 40,4,Mr. David Lim
+C397,Digital Marketing 40,2,Dr. Amanda Chan
+C398,Financial Accounting 40,3,Mr. Michael Wong
+C399,Computer Networks 40,4,Mr. James Lee
+C400,Database Systems 40,2,Ms. Sarah Tan
+C401,Principles of Management 40,3,Mr. David Lim
+C402,Web Development 40,4,Dr. Amanda Chan
+C403,Information Systems 40,2,Mr. Michael Wong
+C404,Introduction to Programming 41,3,Mr. James Lee
+C405,Data Structures 41,4,Ms. Sarah Tan
+C406,Business Statistics 41,2,Mr. David Lim
+C407,Digital Marketing 41,3,Dr. Amanda Chan
+C408,Financial Accounting 41,4,Mr. Michael Wong
+C409,Computer Networks 41,2,Mr. James Lee
+C410,Database Systems 41,3,Ms. Sarah Tan
+C411,Principles of Management 41,4,Mr. David Lim
+C412,Web Development 41,2,Dr. Amanda Chan
+C413,Information Systems 41,3,Mr. Michael Wong
+C414,Introduction to Programming 42,4,Mr. James Lee
+C415,Data Structures 42,2,Ms. Sarah Tan
+C416,Business Statistics 42,3,Mr. David Lim
+C417,Digital Marketing 42,4,Dr. Amanda Chan
+C418,Financial Accounting 42,2,Mr. Michael Wong
+C419,Computer Networks 42,3,Mr. James Lee
+C420,Database Systems 42,4,Ms. Sarah Tan
+C421,Principles of Management 42,2,Mr. David Lim
+C422,Web Development 42,3,Dr. Amanda Chan
+C423,Information Systems 42,4,Mr. Michael Wong
+C424,Introduction to Programming 43,2,Mr. James Lee
+C425,Data Structures 43,3,Ms. Sarah Tan
+C426,Business Statistics 43,4,Mr. David Lim
+C427,Digital Marketing 43,2,Dr. Amanda Chan
+C428,Financial Accounting 43,3,Mr. Michael Wong
+C429,Computer Networks 43,4,Mr. James Lee
+C430,Database Systems 43,2,Ms. Sarah Tan
+C431,Principles of Management 43,3,Mr. David Lim
+C432,Web Development 43,4,Dr. Amanda Chan
+C433,Information Systems 43,2,Mr. Michael Wong
+C434,Introduction to Programming 44,3,Mr. James Lee
+C435,Data Structures 44,4,Ms. Sarah Tan
+C436,Business Statistics 44,2,Mr. David Lim
+C437,Digital Marketing 44,3,Dr. Amanda Chan
+C438,Financial Accounting 44,4,Mr. Michael Wong
+C439,Computer Networks 44,2,Mr. James Lee
+C440,Database Systems 44,3,Ms. Sarah Tan
+C441,Principles of Management 44,4,Mr. David Lim
+C442,Web Development 44,2,Dr. Amanda Chan
+C443,Information Systems 44,3,Mr. Michael Wong
+C444,Introduction to Programming 45,4,Mr. James Lee
+C445,Data Structures 45,2,Ms. Sarah Tan
+C446,Business Statistics 45,3,Mr. David Lim
+C447,Digital Marketing 45,4,Dr. Amanda Chan
+C448,Financial Accounting 45,2,Mr. Michael Wong
+C449,Computer Networks 45,3,Mr. James Lee
+C450,Database Systems 45,4,Ms. Sarah Tan
+C451,Principles of Management 45,2,Mr. David Lim
+C452,Web Development 45,3,Dr. Amanda Chan
+C453,Information Systems 45,4,Mr. Michael Wong
+C454,Introduction to Programming 46,2,Mr. James Lee
+C455,Data Structures 46,3,Ms. Sarah Tan
+C456,Business Statistics 46,4,Mr. David Lim
+C457,Digital Marketing 46,2,Dr. Amanda Chan
+C458,Financial Accounting 46,3,Mr. Michael Wong
+C459,Computer Networks 46,4,Mr. James Lee
+C460,Database Systems 46,2,Ms. Sarah Tan
+C461,Principles of Management 46,3,Mr. David Lim
+C462,Web Development 46,4,Dr. Amanda Chan
+C463,Information Systems 46,2,Mr. Michael Wong
+C464,Introduction to Programming 47,3,Mr. James Lee
+C465,Data Structures 47,4,Ms. Sarah Tan
+C466,Business Statistics 47,2,Mr. David Lim
+C467,Digital Marketing 47,3,Dr. Amanda Chan
+C468,Financial Accounting 47,4,Mr. Michael Wong
+C469,Computer Networks 47,2,Mr. James Lee
+C470,Database Systems 47,3,Ms. Sarah Tan
+C471,Principles of Management 47,4,Mr. David Lim
+C472,Web Development 47,2,Dr. Amanda Chan
+C473,Information Systems 47,3,Mr. Michael Wong
+C474,Introduction to Programming 48,4,Mr. James Lee
+C475,Data Structures 48,2,Ms. Sarah Tan
+C476,Business Statistics 48,3,Mr. David Lim
+C477,Digital Marketing 48,4,Dr. Amanda Chan
+C478,Financial Accounting 48,2,Mr. Michael Wong
+C479,Computer Networks 48,3,Mr. James Lee
+C480,Database Systems 48,4,Ms. Sarah Tan
+C481,Principles of Management 48,2,Mr. David Lim
+C482,Web Development 48,3,Dr. Amanda Chan
+C483,Information Systems 48,4,Mr. Michael Wong
+C484,Introduction to Programming 49,2,Mr. James Lee
+C485,Data Structures 49,3,Ms. Sarah Tan
+C486,Business Statistics 49,4,Mr. David Lim
+C487,Digital Marketing 49,2,Dr. Amanda Chan
+C488,Financial Accounting 49,3,Mr. Michael Wong
+C489,Computer Networks 49,4,Mr. James Lee
+C490,Database Systems 49,2,Ms. Sarah Tan
+C491,Principles of Management 49,3,Mr. David Lim
+C492,Web Development 49,4,Dr. Amanda Chan
+C493,Information Systems 49,2,Mr. Michael Wong
+C494,Introduction to Programming 50,3,Mr. James Lee
+C495,Data Structures 50,4,Ms. Sarah Tan
+C496,Business Statistics 50,2,Mr. David Lim
+C497,Digital Marketing 50,3,Dr. Amanda Chan
+C498,Financial Accounting 50,4,Mr. Michael Wong
+C499,Computer Networks 50,2,Mr. James Lee
+C500,Database Systems 50,3,Ms. Sarah Tan
