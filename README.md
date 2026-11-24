@@ -39,7 +39,6 @@ SEG2102-Database-Management-System/
 ├── README.md
 │
 ├── CockroachDB/
-│   ├── Schema/
 │   ├── Data/
 │   ├── Implementation/
 │   └── Validation/
@@ -47,7 +46,6 @@ SEG2102-Database-Management-System/
 ├── MongoDB/
 │   ├── Original/
 │   ├── Test/
-│   └── Scripts/
 │
 ├── ERD/
 │
@@ -71,7 +69,6 @@ The MongoDB section contains:
 
 - Original database backup.
 - Test database backup.
-- MongoDB implementation scripts.
 
 The original and test databases are maintained separately.
 
